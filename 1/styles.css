@@ -1,0 +1,20 @@
+body {
+    font: 300 14px/1.5 'Oxygen', sans-serif;
+  }
+ .table td,
+  .table th {
+    padding: 10px;
+  } 
+  
+  .colours
+  {
+    background-color: limegreen;  
+  }
+  .colours1
+  {
+    background-color: limegreen;
+    color: white;
+
+  }
+  
+  

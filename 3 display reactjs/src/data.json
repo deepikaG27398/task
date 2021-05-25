@@ -1,0 +1,7 @@
+[
+    {"field1":"1","instrument_token":"540584966","exchange_token":"2111660","tradingsymbol":"EURINR20DEC77.7500CE","name":"\"EURINR\"","last_price":"0","expiry":"12/29/2020","strike":"77.75","tick_size":"0.0025","lot_size":"1","instrument_type":"CE","segment":"BCD-OPT","exchange":"BCD"},
+    {"field1":"2","instrument_token":"540578822","exchange_token":"2111636","tradingsymbol":"EURINR20DEC77.7500PE","name":"\"EURINR\"","last_price":"0","expiry":"12/29/2020","strike":"77.75","tick_size":"0.0025","lot_size":"1","instrument_type":"PE","segment":"BCD-OPT","exchange":"BCD"},
+    {"field1":"3","instrument_token":"540512774","exchange_token":"2111378","tradingsymbol":"EURINR20DEC78.0000CE","name":"\"EURINR\"","last_price":"0","expiry":"12/29/2020","strike":"78","tick_size":"0.0025","lot_size":"1","instrument_type":"CE","segment":"BCD-OPT","exchange":"BCD"},
+    {"field1":"4","instrument_token":"540506374","exchange_token":"2111353","tradingsymbol":"EURINR20DEC78.0000PE","name":"\"EURINR\"","last_price":"0","expiry":"12/29/2020","strike":"78","tick_size":"0.0025","lot_size":"1","instrument_type":"PE","segment":"BCD-OPT","exchange":"BCD"},
+    {"field1":"5","instrument_token":"540627462","exchange_token":"2111826","tradingsymbol":"EURINR20DEC78.2500CE","name":"\"EURINR\"","last_price":"0","expiry":"12/29/2020","strike":"78.25","tick_size":"0.0025","lot_size":"1","instrument_type":"CE","segment":"BCD-OPT","exchange":"BCD"}
+]
